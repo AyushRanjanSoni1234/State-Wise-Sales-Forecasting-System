@@ -41,7 +41,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("📈 Production Forecasting Dashboard")
+st.title("📈 State Wise Sales Forecasting Dashboard")
 st.markdown("---")
 
 # Load Data

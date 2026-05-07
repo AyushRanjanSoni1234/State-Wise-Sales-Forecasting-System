@@ -1,0 +1,15 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+xgboost
+statsmodels
+prophet
+tensorflow
+fastapi
+uvicorn
+streamlit
+plotly
+joblib
+pydantic 
+pickle
